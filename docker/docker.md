@@ -4,7 +4,7 @@
 
 ### Container vs image ids
 
-Note in the following examples `<container>` is either a container id, or a container name \(if such is given to a container with the --name option on start\). Both can be obtained with `docker ps -a`. &lt;image&gt; is either an image id, or an image name. Those can be obtained with the `docker image` command. Do not confuse with container id/name!
+Note in the following examples &lt;container&gt; is either a container id or a container name \(if such is given to a container with the --name option on start\). Both can be obtained with `docker ps -a`. &lt;image&gt; is either an image id or an image name. Those can be obtained with the `docker image` command. Do not confuse with container id/name!
 
 ### Listing Containers
 
@@ -14,7 +14,7 @@ docker ps -a                        # List all containers
 docker ps -s                        # List running containers including CPU/memory size
 ```
 
-List machine readable:
+List machine-readable:
 
 ```text
 docker ps -a --format "{{.ID}},{{.Names}},{{.Status}},{{.Image}},{{.Ports}}"
@@ -36,7 +36,7 @@ docker export --output="latest.tar" <container> #Export a container’s filesyst
 
 ### Starting containers
 
-Start a container with default entrypoint and in background
+Start a container with a default entry point and in background
 
 ```text
 docker start -it ubuntu
