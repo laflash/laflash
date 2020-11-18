@@ -7,10 +7,7 @@
 ## Docker Cheat Sheet <a id="docker"></a>
 
 * [Docker](docker/docker.md)
-
----
-
-* [Docker Swarm](untitled-2.md)
-* [Docker Compose](untitled-3.md)
-* [Container Orchestration](untitled-4.md)
+* [Docker Compose](docker/untitled-3.md)
+* [Docker Swarm](docker/untitled-2.md)
+* [Container Orchestration](docker/untitled-4.md)
 
