@@ -1,8 +1,6 @@
 # Table of contents
 
-* [Kubernetes Cheat Sheets](README.md)
-* [Helm Templates](untitled.md)
-* [Helm](untitled-1.md)
+* [Jody's Cheat Sheets](README.md)
 
 ## Docker Cheat Sheet <a id="docker"></a>
 
@@ -10,4 +8,9 @@
 * [Docker Compose](docker/untitled-3.md)
 * [Docker Swarm](docker/untitled-2.md)
 * [Container Orchestration](docker/untitled-4.md)
+
+## Kubernetes Cheat Sheets
+
+* [Helm](kubernetes-cheat-sheets/untitled-1.md)
+* [Helm Templates](kubernetes-cheat-sheets/untitled-2.md)
 

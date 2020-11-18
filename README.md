@@ -1,2 +1,2 @@
-# Kubernetes Cheat Sheets
+# Jody's Cheat Sheets
 
