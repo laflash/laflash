@@ -4,11 +4,12 @@
 * [Helm Templates](untitled.md)
 * [Helm](untitled-1.md)
 
-## Docker
+## Docker Cheat Sheet <a id="docker"></a>
 
 * [Docker](docker/docker.md)
 
 ---
 
 * [Docker Swarm](untitled-2.md)
+* [Docker Compose](untitled-3.md)
 
